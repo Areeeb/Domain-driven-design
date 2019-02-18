@@ -1,0 +1,6 @@
+C:\Users\areeby\source\repos\DomainDrivenDesign\DomainDrivenDesign\obj\Debug\DomainDrivenDesign.csproj.CoreCompileInputs.cache
+C:\Users\areeby\source\repos\DomainDrivenDesign\DomainDrivenDesign\bin\Debug\DomainDrivenDesign.exe.config
+C:\Users\areeby\source\repos\DomainDrivenDesign\DomainDrivenDesign\bin\Debug\DomainDrivenDesign.exe
+C:\Users\areeby\source\repos\DomainDrivenDesign\DomainDrivenDesign\bin\Debug\DomainDrivenDesign.pdb
+C:\Users\areeby\source\repos\DomainDrivenDesign\DomainDrivenDesign\obj\Debug\DomainDrivenDesign.exe
+C:\Users\areeby\source\repos\DomainDrivenDesign\DomainDrivenDesign\obj\Debug\DomainDrivenDesign.pdb
